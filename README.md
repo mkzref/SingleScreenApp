@@ -11,4 +11,7 @@ SingleScreenApp :
 
 screenshots :
 
-![Happy Christmas](pic1.png)
+![screenshots](pic1.png)
+
+
+![screenshots](pic2.png)
