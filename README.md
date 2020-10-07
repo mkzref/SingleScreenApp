@@ -1,15 +1,15 @@
 # SingleScreenApp
 
-
-SingleScreenApp : 
-
-
+**Marwa Hatamleh
+SingleScreenApp :
 
 
 
 
 
-screenshots :
+
+
+**screenshots :**
 
 
  <img src="pic1.png" width="250">  |
