@@ -1,7 +1,7 @@
 # SingleScreenApp
 
-**Marwa Hatamleh <br>
-SingleScreenApp :
+**Marwa Hatamleh** <br>
+
 
 
 
